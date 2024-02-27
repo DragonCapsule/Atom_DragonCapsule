@@ -1,0 +1,66 @@
+{
+  "name": "dragoncapsule",
+  "desc": "DragonCapsule on Bitcoin (#5201~#10000)",
+  "image": "atom:btc:dat:f10473077bb06aed1b860356a7afb2a24265acf1f6d71a1037e1eb01a1d70180i0/logo.png",
+  "legal": {
+    "terms": "https://arweave.net/2om8up8MggA9XZJMgvTeENMJhhV6x5preREexjP-xL4/6",
+    "license": "METAIP-COMMUNITY-NO-HATE"
+  },
+  "links": {
+    "x": {
+      "v": "https://x.com/atomicalsdragon"
+    },
+    "website": {
+      "v": "https://dragoncapsule.xyz"
+    }
+  },
+  "dmint": {
+    "v": "1",
+    "mint_height": 834888,
+    "merkle": "c86a5c16ec58e45d34a039d5343eb595e1192a1ba23627f99e563476c140b2f7",
+    "immutable": true,
+    "items": 4800,
+    "rules": [
+      {
+        "p": "520[1-9]|52[1-9]\\d|5[3-9]\\d{2}|6\\d{3}|7000",
+        "o": {
+          "51203dca2c37f71466b7c0ebf0c5fa1cbc2dab92a16508ee2139a9975adac4d418fe": {
+            "id": "dc0038f5313f5fbbcfc51aaab7370e43507bdc661760f55ba634aefb5ad15c57i0",
+            "v": 100000
+          }
+        },
+        "bitworkc": "ffff0"
+      },
+      {
+        "p": "70[0-9][1-9]|7[1-9]\\d{2}|8\\d{3}|9[01]\\d{2}|9200",
+        "o": {
+          "51203dca2c37f71466b7c0ebf0c5fa1cbc2dab92a16508ee2139a9975adac4d418fe": {
+            "id": "360533d31e6f3c535acf7a70686ab42cf477b3f7ceaf12ab1d30be218b1726a9i0",
+            "v": 100000
+          }
+        },
+        "bitworkc": "ffff0"
+      },
+      {
+        "p": "920[1-9]|92[1-9]\\d|9[3-9]\\d{2}|10000",
+        "o": {
+          "51203dca2c37f71466b7c0ebf0c5fa1cbc2dab92a16508ee2139a9975adac4d418fe": {
+            "id": "5994cf36fd6e9c04a2cb95c19d2b458ef33804df3af903dd75be5752dada430ai0",
+            "v": 999
+          }
+        },
+        "bitworkc": "fffff0"
+      },
+      {
+        "p": ".*",
+        "o": {
+          "51203dca2c37f71466b7c0ebf0c5fa1cbc2dab92a16508ee2139a9975adac4d418fe": {
+            "id": "dc0038f5313f5fbbcfc51aaab7370e43507bdc661760f55ba634aefb5ad15c57i0",
+            "v": 100000
+          }
+        },
+        "bitworkc": "ffff0"
+      }
+    ]
+  }
+}
