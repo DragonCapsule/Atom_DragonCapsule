@@ -17,10 +17,10 @@ Each DragonCapsule represents a unique digital asset within this cutting-edge Co
 
 If github alert ："Sorry, we had to truncate this directory to 1,000 files. 801 entries were omitted from the list. Latest commit info may be omitted." indicates a limitation of GitHub's web interface, which does not display directories with more than 1,000 files. This does not affect the repository's contents, which include all files.
 
-**To access the complete file list:**
+** To access the complete file list, you can choose one of the following two methods:**
 
-- Above the list of files, click green “Code” button, and click “Download ZIP”
-- Clone the entire repository to your local machine using the command:
+- 1. Above the list of files, click green “Code” button, and click “Download ZIP”
+- 2. Clone the entire repository to your local machine using the command:
 ```js 
 git clone https://github.com/DragonCapsule/Atom_DragonCapsule.git
 ```
