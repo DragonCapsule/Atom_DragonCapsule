@@ -23,7 +23,7 @@ If github alert ："Sorry, we had to truncate this directory to 1,000 files. 801
 ** To access the complete file list, you can choose one of the following two methods:**
 
 - 1. Above the list of repository files, click green “Code” button, and click “Download ZIP”
-- 2. Clone the entire repository to your local machine using the command:
+- 2. Or clone the entire repository to your local machine using the command:
 ```js 
 git clone https://github.com/DragonCapsule/Atom_DragonCapsule.git
 ```
