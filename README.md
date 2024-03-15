@@ -4,7 +4,6 @@ Discover the exclusive collection of 4,800 NFTs, numbered from #5201 to #10000, 
 
 Each DragonCapsule represents a unique digital asset within this cutting-edge Colored Bitcoin ecosystem. 🎉
 
----
 
 ###  DragonCapsule Mint Number Range: #5201 ~ #10000
 ```js 
@@ -13,7 +12,6 @@ Each DragonCapsule represents a unique digital asset within this cutting-edge Co
 - #9201 ~ #10000: Skull Dragon
 ```
 
----
 
 ###  Note: The GitHub Alert 
 
@@ -27,7 +25,6 @@ If github alert ："Sorry, we had to truncate this directory to 1,000 files. 801
 git clone https://github.com/DragonCapsule/Atom_DragonCapsule.git
 ```
 
----
 
 ### OFFICIAL DRAGONCAPSULE DMINT GUIDE 
 https://docs.dragoncapsule.xyz/
