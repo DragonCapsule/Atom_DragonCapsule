@@ -4,12 +4,15 @@ Discover the exclusive collection of 4,800 NFTs, numbered from #5201 to #10000, 
 
 Each DragonCapsule represents a unique digital asset within this cutting-edge Colored Bitcoin ecosystem. 🎉
 
+###  DragonCapsule DMint Height: 
+- Bitcoin BlockHeight: #834888
+
 
 ###  DragonCapsule Mint Number Range: #5201 ~ #10000
 ```js 
-- #5201 ~ #7000: Nature Dragon
-- #7001 ~ #9200: Robot Dragon
-- #9201 ~ #10000: Skull Dragon
+- #5201 ~ #7000:  Nature Dragon  (ARC20 $Dragon 100,000 Payment)
+- #7001 ~ #9200:  Robot Dragon   (ARC20 $Sophon 100,000 Payment)
+- #9201 ~ #10000: Skull Dragon   (ARC20 $Realm  999 Payment)
 ```
 
 
