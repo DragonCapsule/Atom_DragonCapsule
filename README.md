@@ -6,6 +6,7 @@ Each DragonCapsule represents a unique digital asset within this cutting-edge Co
 
 ###  DragonCapsule DMint Height: 
 - Bitcoin BlockHeight: #**834888**
+- Dmint URL( WizzWallet): https://wizz.cash/dmint/dragoncapsule
 
 
 ###  DragonCapsule Mint Number Range: #5201 ~ #10000
