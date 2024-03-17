@@ -12,11 +12,14 @@ Each DragonCapsule represents a unique digital asset within this cutting-edge Co
 
 
 ###  DragonCapsule Dmint Number Range（#5210 ~ #10000） and ARC-20 token payment rules:
+To Dmint numbers #5201 ~ #7000, Natural DragonCapsules require a payment of one $dragon (100,000 $dragon). For numbers #7001 to #9200, Robot DragonCapsules require a payment of one $sophon (100,000 $sophon). Finally, for numbers #9201 to #10000, Skull DragonCapsules require a payment of one $realm (999 $realm)
+
 ```js 
 - #5201 ~ #7000:  Nature Dragon  (Require a payment of 100,000 $Dragon)
 - #7001 ~ #9200:  Robot Dragon   (Require a payment of 100,000 $Sophon)
 - #9201 ~ #10000: Skull Dragon   (Require a payment of 999 $Realm)
 ```
+
 
 
 ###  Get Dmint Json files from this GitHub Repository
