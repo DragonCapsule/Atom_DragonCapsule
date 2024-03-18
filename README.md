@@ -6,7 +6,7 @@ Each DragonCapsule represents a unique digital asset within this cutting-edge Co
 
 ###  DragonCapsule DMint Info: 
 - Bitcoin BlockHeight: #**834888**
-- DragonCapsule can be viewed on Wizz Dashbord : https://wizz.cash/dmint/dragoncapsule
+- Preview the DragonCapsule collections at this URL : https://wizz.cash/dmint/dragoncapsule
 - DMint DragonCapsule by following the Official Guide: : https://docs.dragoncapsule.xyz/
 
 
